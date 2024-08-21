@@ -33,3 +33,5 @@ Bu proje, bir çalışan listesini gösterebilen ve sayfalar arasında geçiş y
 - Javascript
 - React
 - SCSS
+
+[Live](https://fy-employee-list.netlify.app/)
