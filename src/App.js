@@ -31,7 +31,7 @@ function App() {
   };
 
   return (
-    <main>
+   <main>
       <section className="container">
         <h3>Employee List</h3>
         <h5>
