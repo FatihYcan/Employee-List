@@ -5,10 +5,9 @@ This project is a simple React application that can display a list of employees 
 
 ## Features
 
-- Listing employees' photos, names, ages and email addresses.
-- View the list in groups of 5.
-- Switching between the list with previous and next buttons.
-- Responsive design, compatible appearance on mobile devices and tablets.
+- **Employee Listing:** You can view employees' name, age, email address and profile photo.
+- **Page Switching:** You can view employees in groups of 5 and switch between the list with the 'Previous' and 'Next' buttons.
+- **Responsive Design:** The application is designed to be compatible with desktop, tablet and mobile devices.
 
 ## Technologies
 
@@ -23,10 +22,9 @@ Bu proje, bir çalışan listesini gösterebilen ve sayfalar arasında geçiş y
 
 ## Özellikler
 
-**-** Çalışanların fotoğraflarını, isimlerini, yaşlarını ve e-posta adreslerini listeleme.
-- Listeyi 5'li gruplar halinde görüntüleme.
-- Önceki ve sonraki butonları ile liste arasında geçiş yapma.
-- Responsive tasarım, mobil cihazlarda ve tabletlerde uyumlu görünüm.
+- **Çalışan Listeleme:** Çalışanların adını, yaşını, e-posta adresini ve profil fotoğrafını görüntüleyebilirsiniz.
+- **Sayfa Geçişi:** Çalışanları 5'li gruplar halinde görüntüleyebilir ve "Önceki" ve "Sonraki" butonlarıyla liste arasında geçiş yapabilirsiniz.
+- **Responsive Tasarım:** Uygulama, masaüstü, tablet ve mobil cihazlarla uyumlu olarak tasarlanmıştır.
 
 ## Teknolojiler
 
